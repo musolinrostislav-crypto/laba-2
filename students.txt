@@ -1,1 +1,2 @@
 Student 1: Ростик
+Student 2: Максим
